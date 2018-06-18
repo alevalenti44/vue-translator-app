@@ -5,6 +5,8 @@ Please keep in mind that it only works translating from English.
 
 Feel free to use this code as you wish as it is for practice purposes :).
 
-![image](vue-translator-app/translatapp.gif)
+![alt text][logo]
+
+[logo]:(https://github.com/alevalenti44/vue-translator-app/translatapp.gif)
 
 
