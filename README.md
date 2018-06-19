@@ -7,6 +7,6 @@ Feel free to use this code as you wish as it is for practice purposes :).
 
 ![alt text][logo]
 
-[logo]:(https://github.com/alevalenti44/vue-translator-app/translatapp.gif)
+[logo]:(https://github.com/alevalenti44/vue-translator-app/blob/master/translatapp.gif)
 
 
